@@ -1,4 +1,4 @@
-# Subsidiário Fácil [:us:](README.md)]
+# Subsidiário Fácil [:us:](README.md)
 
 Subsidiário Fácil é um sistema simples de cadastro desenvolvido para holding companies gerenciarem informações de subsidiárias de forma eficiente. O sistema permite que os usuários insiram e armazenem dados básicos, como nome fantasia e CNPJ (Cadastro Nacional da Pessoa Jurídica) de suas subsidiárias. Com uma interface amigável, o objetivo é agilizar a gestão e a organização dos dados das subsidiárias.
 
